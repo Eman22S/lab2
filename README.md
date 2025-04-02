@@ -50,14 +50,6 @@ Each class includes appropriate attributes, with relationships and multiplicitie
 
 ---
 
-## 🚀 Submission
-
-To submit:
-1. Push this repository (including the UML diagram and requirements file) to your GitHub account.
-2. Submit the GitHub repository URL to the **Lab2 Assignment** item on **Sakai**.
-
----
-
 ## 📌 Notes
 
 This lab focuses on software requirements discovery and domain modeling. No coding is required at this stage.
