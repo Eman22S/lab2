@@ -1,0 +1,19 @@
+Functional Requirements for Advantis Dental Surgeries Management System (Lab2 - CS489)
+
+1. The system shall allow the Office Manager to register new Dentists.
+2. The system shall assign a unique ID to each Dentist.
+3. The system shall store Dentist's first name, last name, contact phone number, email, and specialization.
+4. The system shall allow the Office Manager to register new Patients.
+5. The system shall store Patient's first name, last name, contact phone number, email, mailing address, and date of birth.
+6. The system shall allow Patients to request appointments via phone or online form.
+7. The system shall allow the Office Manager to schedule and book appointments.
+8. The system shall send confirmation emails to Patients when appointments are booked.
+9. The system shall store each appointment with a specific date, time, Dentist, Patient, and Surgery location.
+10. The system shall allow Dentists to sign in and view a list of their upcoming appointments.
+11. The system shall allow Patients to sign in and view their upcoming appointments.
+12. The system shall display to Patients the Dentist details for each scheduled appointment.
+13. The system shall allow Patients to request to cancel or reschedule appointments.
+14. The system shall ensure no Dentist is assigned more than 5 appointments in a given week.
+15. The system shall prevent a Patient from booking a new appointment if they have any unpaid bills.
+16. The system shall store and manage details about each Surgery location, including name, address, and phone number.
+
